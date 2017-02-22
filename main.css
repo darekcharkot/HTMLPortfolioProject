@@ -1,0 +1,20 @@
+.header{
+  text-align: center;
+}
+
+.tagline{
+  text-align: center;
+}
+
+.skills{
+  text-align: center;
+}
+
+.skills ul li{
+  display: block;
+  text-decoration: none;
+}
+
+.contact{
+  text-align: center;
+}
